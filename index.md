@@ -3,12 +3,15 @@
 will it work 
     
 ![Profile of Greg Selles](Profile.jpeg)
-## Overview and BackGround 
 
+
+## Overview and BackGround 
 
     -Project Management 
     -GIS Stratagy
 
+
+some more background 
 
 You can use the [editor on GitHub](https://github.com/GregSelles/22913998.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
