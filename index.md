@@ -20,7 +20,12 @@ Click on the link to see CV [Click Me](Professional CV - GM Selles.pdf)
 # Overview of Report  
 
     -Project Management 
-    -GIS Stratagy
+    -Meeting the Client 
+    -GIS Stratagy & Management
+    -Data Collect  
+    -Data Management 
+    -Geodatabase Delivery 
+    -Software & Hardware Implmentation
 
 
 ## Concept of GIS Mindmap 
