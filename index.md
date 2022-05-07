@@ -28,7 +28,12 @@ Click on the link to see CV [Click Me](Professional CV - GM Selles.pdf)
     -Software & Hardware Implmentation
 
 
-## Concept of GIS Mindmap 
+## Concept of GIS 
+
+### A mindmap Overview
+
+![Mindmap](Mindmap.PNG)
+
 
 ## Importance of Project Management 
 
@@ -43,15 +48,6 @@ Click on the link to see CV [Click Me](Professional CV - GM Selles.pdf)
 ## Software Integration and management 
 
 
-some more background 
-
-You can use the [editor on GitHub](https://github.com/GregSelles/22913998.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
