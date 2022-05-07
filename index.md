@@ -2,7 +2,7 @@
 
 will it work
 
-![Profile of Greg Selles](Profile.jpeg)
+![Profile of Greg Selles](Profile.jpeg = 100x100)
 
 
 ## Overview and BackGround 
