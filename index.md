@@ -2,8 +2,7 @@
 
 will it work 
     
-
-
+![Profile of Greg Selles](Profile.jpeg)
 ## Overview and BackGround 
 
 
