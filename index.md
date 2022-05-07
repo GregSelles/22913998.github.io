@@ -2,7 +2,7 @@
 
 will it work
 
-![Profile of Greg Selles](Profile.jpeg ){width=50%} {height=50%}
+![Profile of Greg Selles](Profile.jpeg {width=50%} {height=50%})
 
 
 ## Overview and BackGround 
