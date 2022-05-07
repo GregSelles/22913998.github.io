@@ -3,9 +3,9 @@
 Before we dive into details and reflection of Project-1,
 Please see the brief introduction and background I have provided
 to give you a better understanding of who I am, 
-including an attached CV with more details about me, Greg Selles. 
+including an attached CV with more details about me, Greg Selles.
 
-![Profile of Greg Selles](Profile.jpeg)
+<img alt="Profile of Greg Selles" height="100" src="Profile.jpeg" width="100"/>
 
 
 ### More about Me 
