@@ -1,6 +1,7 @@
 ## Welcome To my page and Project report 
 
 Before we get into the details and reflection of Project-1 SUBot.Gardens,
+
 Please note the brief introduction and background, including attached CV 
 on more details about me, Greg Selles. 
 
