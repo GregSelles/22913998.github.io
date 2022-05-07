@@ -8,10 +8,31 @@ on more details about me, Greg Selles.
 ![Profile of Greg Selles](Profile.jpeg)
 
 
-## Overview and BackGround 
+## More about me 
+
+HI 
+
+Click on the link to see CV ...
+
+# Overview of Report  
 
     -Project Management 
     -GIS Stratagy
+
+
+## Concept of GIS Mindmap 
+
+## Importance of Project Management 
+
+## GIS Strategy & Implementation  
+
+## Data Collection 
+
+## Data Manipulation & Analysis
+
+## Geodatabase Delivery
+
+## Software Integration and management 
 
 
 some more background 
