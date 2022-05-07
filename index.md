@@ -10,7 +10,9 @@ including an attached CV with more details about me, Greg Selles.
 
 ### More about Me 
 
-HI 
+ <p>
+Born and raised in a family of five on the coast of Kwa Zulu Natal, I Gregory Michael Selles spent my high school years at Clifton Collage, where I developed an interest in the natural sciences focusing in Geography, while also experiencing an incredible sporting career in Rugby, Rugby 7s and Cricket.<br><br> Today I find myself studying a BSc Geoinformatics and learning more about the outdoors, the culture of our country and the sports that we play.  
+                </p>
 
 Click on the link to see CV ![Click Me](Professional CV - GM Selles.pdf)
 
