@@ -39,6 +39,9 @@ changes
 
 ## Importance of Project Management 
 
+## Business Communication
+
+
 ## GIS Strategy & Implementation  
 
 ## Data Collection 
