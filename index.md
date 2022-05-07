@@ -34,9 +34,10 @@ Click on the link to see CV [Click Me](Professional CV - GM Selles.pdf)
 
 ![Mindmap](Mindmap.PNG)
 
-changes 
-
 ## Importance of Project Management 
+
+## Business Communication
+
 
 ## GIS Strategy & Implementation  
 
