@@ -5,7 +5,7 @@ Please see the brief introduction and background I have provided
 to give you a better understanding of who I am, 
 including an attached CV with more details about me, Greg Selles.
 
-<img alt="Profile of Greg Selles" height="100" src="Profile.jpeg" width="100"/>
+<img alt="Profile of Greg Selles" height="80%" src="Profile.jpeg" width="80%"/>
 
 
 ### More about Me 
