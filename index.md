@@ -32,7 +32,7 @@ Click on the link to see CV [Click Me](Professional CV - GM Selles.pdf)
 
 ### A mindmap Overview
 
-![MindMap](MindMap.html)
+![MindMap](Mindmap.PNG)
 
 
 ## Importance of Project Management 
