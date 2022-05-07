@@ -1,6 +1,8 @@
-## Greg Selles Portfolio - 713
+## Welcome To my page and Project report 
 
-will it work
+Before we get into the details and reflection of Project-1 SUBot.Gardens,
+Please note the brief introduction and background, including attached CV 
+on more details about me, Greg Selles. 
 
 ![Profile of Greg Selles](Profile.jpeg)
 
