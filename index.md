@@ -1,7 +1,7 @@
 ## Greg Selles Portfolio - 713
 
-will it work 
-    
+will it work
+
 ![Profile of Greg Selles](Profile.jpeg)
 
 
