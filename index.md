@@ -12,7 +12,7 @@ including an attached CV with more details about me, Greg Selles.
 
 HI 
 
-Click on the link to see CV [see my CV](Professional CV - GM Selles.pdf)
+Click on the link to see CV ![see my CV](Professional CV - GM Selles.pdf)
 
 # Overview of Report  
 
