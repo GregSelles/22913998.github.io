@@ -60,6 +60,7 @@ In order to better understand click on the [pdf](GISmap.pdf) for a brief overvie
 <p> To provide an updated Geodatabase to add in the species location mapping of over 4000 different species of plants and provide a historical database to refer back to for garden management.</p>  
 
 ## Business Communication
+<hr>
 
 <p>Similarly, to the concepts discussed in the GIT Overview Pdf, Business and Professional Communication is of highest importance! Being able to understand and extract critical pieces of information  pertaining to a specific Problem creates the initial concept and roadmap of the critical path required for the project. </p>
 
@@ -72,6 +73,7 @@ In order to better understand click on the [pdf](GISmap.pdf) for a brief overvie
 [ConceptualModel](Group3_ConceptualModel.pdf)
 
 ## Importance of Project Management 
+<hr>
 
 <p> Working in a team requires an understanding of individual roles and clear approach on how to achieve the goals which have been created for the Project. In order to better understand the tasks at hand. We first created a Gannt Chart, in doing such we were able to visually see our goals and compare them to the time frame which had been established. </p> 
 
@@ -84,14 +86,18 @@ In order to better understand click on the [pdf](GISmap.pdf) for a brief overvie
 ![roadmap](1Roadmap.jpg)
 
 ## GIS Strategy & Implementation  
+<hr>
 
 ## Data Collection 
+<hr>
 
 ## Data Manipulation & Analysis
+<hr>
 
 ## Geodatabase Delivery
+<hr>
 
 ## Software Integration and management 
-
+<hr>
 
 
