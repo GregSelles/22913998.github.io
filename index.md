@@ -11,7 +11,7 @@ including an attached CV with more details about me, Greg Selles.
 ### More about Me 
 
  <p>
-Born and raised in a family of five on the coast of Kwa Zulu Natal, I Gregory Michael Selles spent my high school years at Clifton Collage, where I developed an interest in the natural sciences focusing in Geography, while also experiencing an incredible sporting career in Rugby, Rugby 7s and Cricket.<br><br> Today I find myself studying a BSc Geoinformatics and learning more about the outdoors, the culture of our country and the sports that we play.  
+Born and raised in a family of five on the coast of Kwa Zulu Natal, I Gregory Michael Selles spent my high school years at Clifton College, where I developed an interest in the natural sciences focusing in Geography, while also experiencing an incredible sporting career in Rugby, Rugby 7s and Cricket.<br><br> Today I find myself studying a BSc Geoinformatics and learning more about the outdoors, the culture of our country and the sports that we play.  
                 </p>
 
 Please view CV [Click Me](Professional CV - GM Selles.pdf)
@@ -87,6 +87,13 @@ In order to better understand click on the [pdf](GISmap.pdf) for a brief overvie
 ## GIS Strategy & Implementation  
 <hr>
 
+<p> Before we could just run off into the garden and start collecting data for our project. There was some more strategy planning which needed to be considered. Such as devising an appropriate Logical Model to follow and a suitable implementation method such that we could integrate the data collected on site correctly into the Geodatabase of our client, done in such a way as to minimize the duplication or redundancy of data as well as provide more meaning to the database in terms of metadata and accompanying tables of information. </P> 
+
+[LogicalModel](Logicalmodel.jpg)
+ 
+<p> To start off our Strategy Planning the link above displays our logical model with appropriate naming conventions as to seamlessly integrate into the database without the error in terms of duplications of data. </p>
+
+<p> Next came the issue of interpreting how to take our ideas and goals, which had been established in meetings, and create a tangible and meaningful product. Moving from this current state of ideas to a more defined future state, required us to focus our skills and sub-divide the tasks into manageable portions which could be separated and achieved. </p> 
 
 
 ## Data Collection 
