@@ -81,7 +81,7 @@ In order to better understand click on the [pdf](GISmap.pdf) for a brief overvie
 
 <p> Thankfully, this goal was easily achieved and we as a group were now ready to being the implementation and geospatial Strategy portion of our Project.  The Project Roadmap Image below displays the various Goal Titles for different sections of our Project. At this point, we had just achieved the initial step. </p> 
 
-![roadmap](Roadmap.jpg)
+![roadmap](1Roadmap.jpg)
 
 ## GIS Strategy & Implementation  
 
