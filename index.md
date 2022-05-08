@@ -102,6 +102,13 @@ In order to better understand click on the [pdf](GISmap.pdf) for a brief overvie
 ## Data Collection 
 <hr>
 
+<p> In order to try and obtain data points at a high precision, we decided to use a Total Station, a piece of surveying equipment which when set up correctly, a process involving identifying the stations exact location as well as identifying a back point from which to calculate distance between the two points. This is achieved through using the built-in laser of the total station and a prism reflector at the points of capture. Once the station is aligned with the prism, the calculations can begin. </p> 
+
+<p> As the station has captured a single point, the user can assess the statistical analysis provided by the machine and choose to save the point to the current project working file. Once saved, the prism can be moved to the next point of interest, and the process continues. </p> 
+
+<p> In order to accurately digitize polygons to match that of the beds seen in the botanical garden, multiple points where captured around each individual bed, as to create a dense point shapefile to add in the data manipulation and management stage. </p>    
+
+
 ![gardenmapping](Garden.png)
 
 
