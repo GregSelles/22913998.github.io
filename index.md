@@ -142,10 +142,13 @@ In order to better understand click on the [pdf](GISmap.pdf) for a brief overvie
 
 <p> Once again referencing the deliverables established at the beginning of the project. We as a group were able to successfully achieve 4 of the goals. Unfortunately, the least cost irrigation system could not be done, due to lack information and poorly time site visits when our client was available. A definite procedure to follow in the future would be identifying greater communication efforts with a client to ensure that goals do not get left behind and that the project team can get all the information required to successfully achieve the goals created. </p>
 
-
+<p> Overall the project can be deemed a great learning experience. Having the responsibility to manage a project and ensure all the goals are meant on time and in budget, requires very precise planning and management. Following the correct strategy’s and implementing the right steps at the correct time are crucial to the overall outcome of a project. </p>
 
 ## Software Integration and management 
 <hr>
 
+<p> Throughout this project various software programs and physical equipment were utilized. Esri ArcGIS Pro provided a platform in which the geodatabase could be accessed and updated. As already previously mentioned. Trimble hardware including a total station and DGPS aided in the collection of raw data points and finally GITHUB was used to create this document as well as keep a track of the various files involved in this project.  The image below displays the various logos of the company’s technology which were utilized. </p>
+
 ![Logos](Logos.png)
 
+<hr> 
