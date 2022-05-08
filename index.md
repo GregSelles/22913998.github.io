@@ -102,6 +102,11 @@ In order to better understand click on the [pdf](GISmap.pdf) for a brief overvie
 ## Data Collection 
 <hr>
 
+![gardenmapping](Garden.png)
+
+
+
+![RooiPlan](SpeciesRooi.png)
 
 ## Data Manipulation & Analysis
 <hr>
