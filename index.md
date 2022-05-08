@@ -91,7 +91,7 @@ In order to better understand click on the [pdf](GISmap.pdf) for a brief overvie
 
 [Logical Model](Logicalmodel.jpg)
  
-<p> To start off our Strategy Planning the link above displays our logical model with appropriate naming conventions as to seamlessly integrate into the database without the error in terms of duplications of data. </p>
+<p> To start off our Strategy Planning the link above displays our logical model with appropriate naming conventions as to seamlessly integrate into the database without the error in terms of a duplication of data. </p>
 
 <p> Next came the issue of interpreting how to take our ideas and goals, which had been established in meetings, and create a tangible and meaningful product. Moving from this current state of ideas to a more defined future state, required us to focus our skills and sub-divide the tasks into manageable portions which could be separated and achieved. </p> 
 
