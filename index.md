@@ -14,7 +14,7 @@ including an attached CV with more details about me, Greg Selles.
 Born and raised in a family of five on the coast of Kwa Zulu Natal, I Gregory Michael Selles spent my high school years at Clifton Collage, where I developed an interest in the natural sciences focusing in Geography, while also experiencing an incredible sporting career in Rugby, Rugby 7s and Cricket.<br><br> Today I find myself studying a BSc Geoinformatics and learning more about the outdoors, the culture of our country and the sports that we play.  
                 </p>
 
-Click on the link to see CV [Click Me](Professional CV - GM Selles.pdf)
+Please view CV [Click Me](Professional CV - GM Selles.pdf)
 
 
 # Overview of Report  
@@ -31,8 +31,7 @@ Click on the link to see CV [Click Me](Professional CV - GM Selles.pdf)
 
 
 
-## Concept of GIS 
-
+## Concept of GIS
 <hr>
 
 ### A Mindmap Overview
@@ -64,7 +63,7 @@ In order to better understand click on the [pdf](GISmap.pdf) for a brief overvie
 
 <p>Similarly, to the concepts discussed in the GIT Overview Pdf, Business and Professional Communication is of highest importance! Being able to understand and extract critical pieces of information  pertaining to a specific Problem creates the initial concept and roadmap of the critical path required for the project. </p>
 
-<p> Here we learnt how the sharing of ideas and information in a spoken and written manner, start off the project planning process, through the creation of aids which can be turned into achievable goals and set to a time frame in order to remain on the critical path for the project. </p>   
+<p> Here we learnt how the sharing of ideas and information in a spoken and written manner, start off the project planning process, through the creation of aims which can be turned into achievable goals and set to a time frame in order to remain on the critical path for the project. </p>   
 
 <p> Furthermore, The ability to communicate in the appropriate business dialect has a direct correlation to you as a professional and the standards potential clients expect, which in turn can lead to your success or decline in the working environment. Communication is Key and the correct form of communication paints a good corporate image of yourself and your company. </p> 
 
@@ -87,6 +86,8 @@ In order to better understand click on the [pdf](GISmap.pdf) for a brief overvie
 
 ## GIS Strategy & Implementation  
 <hr>
+
+
 
 ## Data Collection 
 <hr>
