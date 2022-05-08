@@ -50,6 +50,7 @@ Deliverables:
 + D3: Large Tree point mapping
 + D4: Database Integration 
 + D5: Least cost Irrigation mapping <br><br> 
+
 Why: To provide an updated geodatabase to add in the species location mapping of over 4000 different species of plants and provide a historical database to refer back to for garden management.  
 
 
