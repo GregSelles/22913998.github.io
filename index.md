@@ -97,7 +97,7 @@ In order to better understand click on the [pdf](GISmap.pdf) for a brief overvie
 
 
 ![GISLifeCycle](gis-project-life-cycle.jpg)
-
+<!-- Project Life-Cycle -->
 
 ## Data Collection 
 <hr>
