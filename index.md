@@ -96,8 +96,8 @@ In order to better understand click on the [pdf](GISmap.pdf) for a brief overvie
 <p> Next came the issue of interpreting how to take our ideas and goals, which had been established in meetings, and create a tangible and meaningful product. Moving from this current state of ideas to a more defined future state, required us to focus our skills and sub-divide the tasks into manageable portions which could be separated and achieved. </p> 
 
 
-![GIS-LifeCycle](gis-project-life-cycle.jpg)
-<!-- Project Life-Cycle -->
+<img alt="GIS-LifeCycle" height="50%" src="gis-project-life-cycle.jpg" width="50%"/>
+
 
 ## Data Collection 
 <hr>
