@@ -19,6 +19,8 @@ Click on the link to see CV [Click Me](Professional CV - GM Selles.pdf)
 
 # Overview of Report  
 
+<hr>
+
     -Project Management 
     -Meeting the Client 
     -GIS Stratagy & Management
@@ -31,12 +33,14 @@ Click on the link to see CV [Click Me](Professional CV - GM Selles.pdf)
 
 ## Concept of GIS 
 
+<hr>
+
 ### A Mindmap Overview
 
 ![Mindmap](Mindmap.PNG)
 The Above MindMap is also available in html form and has been submitted within the submission folder for a clearer view!
 <br><br>
-In order to better understand click on the [pdf](GISmap.pdf) for a brief overview of the various components seen in the mindmap 
+In order to better understand click on the [pdf](GISmap.pdf) for a brief overview of the various components seen in the mindmap. 
 
 # SU Botanical Gardens Project 
 <hr>
@@ -67,8 +71,17 @@ In order to better understand click on the [pdf](GISmap.pdf) for a brief overvie
 
 [ConceptualModel](Group3_ConceptualModel.pdf)
 
-
 ## Importance of Project Management 
+
+<p> Working in a team requires an understanding of individual roles and clear approach on how to achieve the goals which have been created for the Project. In order to better understand the tasks at hand. We first created a Gannt Chart, in doing such we were able to visually see our goals and compare them to the time frame which had been established. </p> 
+
+[GanntChart](Group3_Gantt_v2.pdf) 
+
+<p> The Gannt Chart as seen in the link above provides a meaning tool for creating a critical path and correctly sub-dividing the task put forward as to ensure that all the goals are in fact achieved within the timeframe allocated. <br><br> At this point of the project focus was on the management, planning and creating of aims. It was at this point that we truly understood the Quality of our project was crucially  based on the scope, time, and budget aspect. It should be mentioned that budget in this case did not play a large role as the cost for equipment was null due to the access to equipment which Stellenbosch University and More specifically the Engineering faculty provided. However, this did require the correct Networking and Resource Planning, as the process of book out the equipment was vital to any form of success. </p>
+
+<p> Thankfully, this goal was easily achieved and we as a group were now ready to being the implementation and geospatial Strategy portion of our Project.  The Project Roadmap Image below displays the various Goal Titles for different sections of our Project. At this point, we had just achieved the initial step. </p> 
+
+![ProjectRoadmap](Roadmap.jpg)
 
 ## GIS Strategy & Implementation  
 
