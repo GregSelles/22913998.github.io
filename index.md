@@ -40,18 +40,6 @@ In order to better understand click on the [pdf](GISmap.pdf) for a brief overvie
 
 # SU Botanical Gardens Project 
 
-Client: Dr. Don Kirkwood (curator of the botanical gardens)<br><br>
-Stakeholders: Stellenbosch University & Associate Lecturers for GIT 713<br><br> 
-Group Members: Group3,  Greg Selles, Dom Kennard, Farhaan Essop, Nolu Delman.<br><br>  
-Deliverables:  
-•	    D1: High precision mapping of new garden beds
-•	    D1-a: Rooi Plane critically endangered species mapping 
-•	    D2: Historical data updating (Geodatabase)
-•	    D3: Large Tree point mapping   
-•	    D4: Database Integration 
-•	    D5: Least cost Irrigation mapping <br><br> 
-Why: To provide an updated geodatabase to add in the species location mapping of over 4000 different species of plants and provide a historical database to refer back to for garden management.  
-
 
 ## Importance of Project Management 
 
