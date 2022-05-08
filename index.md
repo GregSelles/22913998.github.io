@@ -138,6 +138,12 @@ In order to better understand click on the [pdf](GISmap.pdf) for a brief overvie
 ## Geodatabase Delivery
 <hr>
 
+<p> Now nearing the end of our project, the focus shifted from the raw data collection to a database management phase, where the data was manipulated as to ensure seamless connection to the botanical gardens current geodatabase. </p> 
+
+<p> Once again referencing the deliverables established at the beginning of the project. We as a group were able to successfully achieve 4 of the goals. Unfortunately, the least cost irrigation system could not be done, due to lack information and poorly time site visits when our client was available. A definite procedure to follow in the future would be identifying greater communication efforts with a client to ensure that goals do not get left behind and that the project team can get all the information required to successfully achieve the goals created. </p>
+
+
+
 ## Software Integration and management 
 <hr>
 
