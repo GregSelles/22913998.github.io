@@ -119,6 +119,9 @@ In order to better understand click on the [pdf](GISmap.pdf) for a brief overvie
 
 ![RooiPlan](SpeciesRooi.png)
 
+<p> The process of collecting points with a total station, is a relatively easy procedure once the station is correctly set up. Looking back on the various attempts our group had at collecting points, I would say we did a great job especially when it came to amount of points captured and the ordered fashion in which we managed and recorded  the various beds. However, for future endeavours having a stronger understanding of how to ensure the ideal set up for the total station would be useful, to rule out any types of unforced user error. </p> 
+
+
 ## Data Manipulation & Analysis
 <hr>
 
