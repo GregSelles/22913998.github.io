@@ -39,6 +39,7 @@ The Above MindMap is also available in html form and has been submitted within t
 In order to better understand click on the [pdf](GISmap.pdf) for a brief overview of the various components seen in the mindmap 
 
 # SU Botanical Gardens Project 
+<hr>
 
 **Client**: Dr. Don Kirkwood (curator of the botanical gardens)<br><br>
 **Stakeholders**: Stellenbosch University & Associate Lecturers for GIT 713<br><br> 
@@ -62,7 +63,7 @@ In order to better understand click on the [pdf](GISmap.pdf) for a brief overvie
 
 <p> Furthermore, The ability to communicate in the appropriate business dialect has a direct correlation to you as a professional and the standards potential clients expect, which in turn can lead to your success or decline in the working environment. Communication is Key and the correct form of communication paints a good corporate image of yourself and your company. </p> 
 
-<p> Our first meeting with Dr. Kirkwood, took place in a formal room setting where he explained his idea and provided us with a verbal list of goals he would like to achieve, This can be seen above under the Deliverables title for the botanical gardens project. Following which our next meetings took place in the gardens themselves where Dr. Kirkwood explained his current Geodatabase, once complete, the various Groups all took turns explaining their conceptual models as to better understand the scope and ensure all the goals set forth had been met. The conceptual model for group 3 can be seen in the link provided. </p>  
+<p> Our first meeting with Dr. Kirkwood, took place in a formal room setting where he explained his idea and provided us with a verbal list of goals he would like to achieve, This can be seen above under the Deliverables title for the botanical gardens project. Following which our next meetings took place in the gardens themselves where Dr. Kirkwood explained his current Geodatabase.<br><br> Once complete, the various Groups all took turns explaining their conceptual models as to better understand the scope and ensure all the goals set forth had been met. The conceptual model for group 3 can be seen in the link provided. </p>  
 
 [ConceptualModel](Group3_ConceptualModel.pdf)
 
