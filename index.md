@@ -38,6 +38,9 @@ The Above MindMap is also available in html form and has been submitted within t
 <br><br>
 In order to better understand click on the [pdf](GISmap.pdf) for a brief overview of the various components seen in the mindmap 
 
+# SU Botanical Gardens Project 
+
+
 ## Importance of Project Management 
 
 ## Business Communication
