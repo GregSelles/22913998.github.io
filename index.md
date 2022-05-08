@@ -102,7 +102,7 @@ In order to better understand click on the [pdf](GISmap.pdf) for a brief overvie
 ## Data Collection 
 <hr>
 
-<p> In order to try and obtain data points at a high precision, we decided to use a Total Station, a piece of surveying equipment which when set up correctly, a process involving identifying the stations exact location as well as identifying a back point from which to calculate distance between the two points. This is achieved through using the built-in laser of the total station and a prism reflector at the points of capture. Once the station is aligned with the prism, the calculations can begin. </p> 
+<p> In order to try and obtain data points at a high precision, we decided to use a Total Station, a piece of surveying equipment which when set up correctly, a process involving identifying the stations exact location as well as identifying a back point from which to calculate distance between the two points. which is achieved through using the built-in laser of the total station and a prism reflector at the points of capture. Once the station is aligned with the prism, the calculations can begin. </p> 
 
 <p> As the station has captured a single point, the user can assess the statistical analysis provided by the machine and choose to save the point to the current project working file. Once saved, the prism can be moved to the next point of interest, and the process continues. </p> 
 
@@ -111,6 +111,10 @@ In order to better understand click on the [pdf](GISmap.pdf) for a brief overvie
 
 ![gardenmapping](Garden.png)
 
+
+<p> The collage of images seen above depict the Total Station, Prism and a map of 6 of the 8 new stone beds created in the botanical garden. The sundial as seen in the image on the left was used as a common reference point to align the virtual data points collected to the polygon shapefile and Geodatabase of the garden. </p> 
+
+<p> Myself and Dom, returned to the gardens on three separate occasions in order to collect as many possible data points, for the placement of the new beds, D1 and the position of the large trees, D4. During one of the onsite data collection days. Our group travelled to the Rooi Plane, the centre of Stellenbosch university and captured points for the two new beds of critically endanger Plant species. As seen in the image below. </p>    
 
 
 ![RooiPlan](SpeciesRooi.png)
