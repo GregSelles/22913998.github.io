@@ -60,6 +60,12 @@ In order to better understand click on the [pdf](GISmap.pdf) for a brief overvie
 
 <p> Here we learnt how the sharing of ideas and information in a spoken and written manner, start off the project planning process, through the creation of aids which can be turned into achievable goals and set to a time frame in order to remain on the critical path for the project. </p>   
 
+<p> Furthermore, The ability to communicate in the appropriate business dialect has a direct correlation to you as a professional and the standards potential clients expect, which in turn can lead to your success or decline in the working environment. Communication is Key and the correct form of communication paints a good corporate image of yourself and your company. </p> 
+
+<p> Our first meeting with Dr. Kirkwood, took place in a formal room setting where he explained his idea and provided us with a verbal list of goals he would like to achieve, This can be seen above under the Deliverables title for the botanical gardens project. Following which our next meetings took place in the gardens themselves where Dr. Kirkwood explained his current Geodatabase, once complete, the various Groups all took turns explaining their conceptual models as to better understand the scope and ensure all the goals set forth had been met. The conceptual model for group 3 can be seen in the link provided. </p>  
+
+[ConceptualModel](Group3_ConceptualModel.pdf)
+
 
 ## Importance of Project Management 
 
