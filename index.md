@@ -28,11 +28,15 @@ Click on the link to see CV [Click Me](Professional CV - GM Selles.pdf)
     -Software & Hardware Implmentation
 
 
+
 ## Concept of GIS 
 
-### A mindmap Overview
+### A Mindmap Overview
 
 ![Mindmap](Mindmap.PNG)
+The Above MindMap is also available in html form and has been submitted within the submission folder for a clearer view!
+<br><br>
+In order to better understand click on the [pdf](GISmap.pdf) for a brief overview of the various components seen in the mindmap 
 
 ## Importance of Project Management 
 
