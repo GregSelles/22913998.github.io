@@ -102,6 +102,7 @@ In order to better understand click on the [pdf](GISmap.pdf) for a brief overvie
 ## Data Collection 
 <hr>
 
+
 ## Data Manipulation & Analysis
 <hr>
 
@@ -111,4 +112,5 @@ In order to better understand click on the [pdf](GISmap.pdf) for a brief overvie
 ## Software Integration and management 
 <hr>
 
+![Logos](Logos.png)
 
