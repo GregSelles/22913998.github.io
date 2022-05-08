@@ -125,6 +125,16 @@ In order to better understand click on the [pdf](GISmap.pdf) for a brief overvie
 ## Data Manipulation & Analysis
 <hr>
 
+
+<p> Once we were happy with our points. The Trimble Total station provided a easy export option directly to shapefile. Once downloaded on to a flash stick and uploaded into Esri ArcGIS Pro, we were able to take a look at the data we had collected. </p>
+
+![dataCleaning](DataCleaning.png)
+
+<p> Initially, we found an unforced user error as the points had been referenced in the northern hemisphere, Lucky we had the aid of Dr. Munch to help use correct the mistake made. Following which we were able to digitize our points and create polygons to represent the beds. </p> 
+
+<p> After  the polygons had been created and the data once again inspected, we rubber sheeted our polygons to points identified with a Trimble DGPS to verify the accuracy and precision of our data once again. </p>   
+   
+
 ## Geodatabase Delivery
 <hr>
 
